@@ -6,8 +6,8 @@ POST_DAYS = ['sunday','monday', 'tuesday','friday','saturday','sunday','thursday
 POST_LIST = PostList([])
 DATES_OF_POSTS = {}
 
-USERNAME = "dumblaowai"
-PASSWORD = "Nfcietmultan1"
+USERNAME = ""
+PASSWORD = ""
 
 DAYS_MAP = {
     0: 'monday',
